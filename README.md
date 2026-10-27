@@ -1,2 +1,2 @@
-# veyroq.studio
-Our main website
+# Home
+This is our main website repo
